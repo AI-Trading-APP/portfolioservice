@@ -1,0 +1,43 @@
+{
+  "user_1": {
+    "userId": "user_1",
+    "cash": 95500.0,
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "quantity": 30.0,
+        "avgCostBasis": 150.0,
+        "addedAt": "2025-11-12T22:27:34.858200"
+      }
+    ],
+    "transactions": [
+      {
+        "id": "txn_1",
+        "ticker": "AAPL",
+        "type": "buy",
+        "quantity": 10.0,
+        "price": 150.0,
+        "timestamp": "2025-11-12T22:27:34.858500",
+        "fees": 0.0
+      },
+      {
+        "id": "txn_2",
+        "ticker": "AAPL",
+        "type": "buy",
+        "quantity": 10.0,
+        "price": 150.0,
+        "timestamp": "2025-11-12T22:28:52.137097",
+        "fees": 0.0
+      },
+      {
+        "id": "txn_3",
+        "ticker": "AAPL",
+        "type": "buy",
+        "quantity": 10.0,
+        "price": 150.0,
+        "timestamp": "2025-11-12T22:30:02.537803",
+        "fees": 0.0
+      }
+    ]
+  }
+}
